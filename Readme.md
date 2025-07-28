@@ -45,16 +45,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OddlyEvenn&show_icons=true&theme=radical" alt="Even's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OddlyEvenn&theme=radical" alt="Even's GitHub Streak Stats"/>
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 - 📬 Email: [pateleven8@gmail.com](mailto:pateleven8@gmail.com)  
