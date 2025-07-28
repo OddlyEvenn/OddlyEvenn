@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Even Patel</h1>
-<p align="center">
+<h1 >Hi 👋, I'm Even Patel</h1>
+<p >
   <strong>Aspiring Software Developer</strong><br/>
   Passionate about building intelligent systems and solving real-world problems.
 </p>
