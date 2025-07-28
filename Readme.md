@@ -22,7 +22,7 @@
 - Design responsive, secure UIs with **Tailwind CSS**, **Vite**, and **JWT authentication**  
 - Integrate payment systems using **Stripe & Webhooks**  
 - Add real-time support via **AI-powered chatbots using OpenAI APIs**  
-- Use data structures, algorithms, and OOP to build efficient systems 
+- Write clean and efficient code using data structures, algorithms, and OOP
 - Continuously explore new technologies in backend, ML, and deployment
 
 ---
