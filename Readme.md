@@ -37,8 +37,8 @@
 `NetworkX` `Matplotlib` `NumPy` `SciPy`
 
 #### 🧰 Tools & Platforms  
-`MongoDB` `Google Sheets API` `JWT` `OAuth 2.0` `Gmail SMTP`  
-`Stripe API` `OpenAI API` `Postman` `Vite` `Git & GitHub` `Linux Terminal`
+`MongoDB` `JWT` `OAuth 2.0` `Gmail SMTP`  
+`Stripe API` `OpenAI API` `Postman` `Git & GitHub` 
 
 #### 🔍 Currently Exploring  
 `Spring Boot` `Machine Learning Models with Python` `Deep Learning Basics`
