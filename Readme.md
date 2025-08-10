@@ -30,7 +30,7 @@
 ### 💻 Tech Stack
 
 #### 📝 Languages  
-`C++` `Python` `JavaScript` `C`
+`C++` `Python` `JavaScript` `C` `Java`
 
 #### ⚙️ Frameworks & Libraries  
 `React` `Node.js` `Express.js` `Tailwind CSS` `Tkinter`  
