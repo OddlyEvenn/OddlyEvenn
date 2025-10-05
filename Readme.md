@@ -41,7 +41,7 @@
 `Stripe API` `OpenAI API` `Postman` `Git & GitHub` 
 
 #### 🔍 Currently Exploring  
-`Spring Boot` `Machine Learning Models with Python` `Deep Learning Basics`
+`Spring Boot` `Machine Learning Models with Python`
 
 ---
 
