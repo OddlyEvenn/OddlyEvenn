@@ -9,7 +9,7 @@
 ### 🎯 Interests
 
 - 💻 Full Stack Web Development  
-- 🧠 Machine Learning & Natural Language Processing  
+- 🧠 Machine Learning 
 - 🌐 API Development & System Integration  
 - 🤖 AI Assistants & Chatbots 
 - ⚙️ Open Source Collaboration  
