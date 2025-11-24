@@ -8,8 +8,7 @@
 
 ### 🎯 Interests
 
-- 💻 Full Stack Web Development  
-- 🧠 Machine Learning 
+- 💻 Full Stack Web Development 
 - 🌐 API Development & System Integration  
 - 🤖 AI Assistants & Chatbots 
 - ⚙️ Open Source Collaboration  
@@ -23,7 +22,7 @@
 - Integrate payment systems using **Stripe & Webhooks**  
 - Add real-time support via **AI-powered chatbots using OpenAI APIs**  
 - Write clean and efficient code using data structures, algorithms, and OOP
-- Continuously explore new technologies in backend, ML, and deployment
+- Continuously exploring new technologies in backend, and deployment
 
 ---
 
