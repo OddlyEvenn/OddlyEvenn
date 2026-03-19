@@ -89,7 +89,7 @@ Passionate about writing clean, scalable code and solving real-world engineering
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <a href="https://github.com/">
+      <a href="https://github.com/Nitantjain21022006/NeuroX">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -103,7 +103,7 @@ Passionate about writing clean, scalable code and solving real-world engineering
         <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <a href="https://github.com/">
+      <a href="https://github.com/Nitantjain21022006/KavachX">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -119,7 +119,7 @@ Passionate about writing clean, scalable code and solving real-world engineering
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       </p>
-      <a href="https://github.com/">
+      <a href="https://github.com/OddlyEvenn/TradeSphere-Protocol">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -133,7 +133,7 @@ Passionate about writing clean, scalable code and solving real-world engineering
         <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       </p>
-      <a href="https://github.com/">
+      <a href="https://github.com/Nitantjain21022006/Tripline_Frontend">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
