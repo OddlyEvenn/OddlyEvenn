@@ -4,7 +4,7 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -18,7 +18,7 @@ Passionate about writing clean, scalable code and solving real-world engineering
 
 📍 Ahmedabad, India · 💻 Full Stack + AI + Distributed Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/even-patel/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateleven8@gmail.com)
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/CipherNerds) -->
@@ -176,15 +176,15 @@ Passionate about writing clean, scalable code and solving real-world engineering
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=60a5fa&icon_color=60a5fa&text_color=a0aec0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OddlyEvenn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=60a5fa&icon_color=60a5fa&text_color=a0aec0"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=60a5fa&text_color=a0aec0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OddlyEvenn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=60a5fa&text_color=a0aec0"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=60a5fa&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa&sideLabels=a0aec0&dates=a0aec0&currStreakNum=ffffff&sideNums=ffffff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OddlyEvenn&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=60a5fa&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa&sideLabels=a0aec0&dates=a0aec0&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
