@@ -174,19 +174,17 @@ Passionate about writing clean, scalable code and solving real-world engineering
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center"> 
+  
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OddlyEvenn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=60a5fa&icon_color=60a5fa&text_color=a0aec0"/> &nbsp;&nbsp;  -->
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OddlyEvenn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=60a5fa&text_color=a0aec0"/> 
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OddlyEvenn&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800&hide_border=true&bg_color=1a1a2e&title_color=60a5fa&icon_color=60a5fa&text_color=a0aec0"/>
+</div> 
 
-&nbsp;&nbsp;
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OddlyEvenn&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=true&bg_color=1a1a2e&title_color=60a5fa&text_color=a0aec0"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=OddlyEvenn&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=60a5fa&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa&sideLabels=a0aec0&dates=a0aec0"/>
+<div align="center"> 
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OddlyEvenn&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=60a5fa&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa&sideLabels=a0aec0&dates=a0aec0&currStreakNum=ffffff&sideNums=ffffff"/> 
 
 </div>
 
