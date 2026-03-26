@@ -1,75 +1,61 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Even%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20%26%20Distributed%20Systems&descAlignY=58&descSize=16&descColor=a0aec0" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Even%20Patel&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI%20%7C%20Web3&descAlignY=62&descSize=15&descColor=c9d1d9&animation=fadeIn" />
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-### 👋 Hey, I'm Even
-
-**CS Undergrad @ Ahmedabad University** building distributed systems, microservices & AI-powered applications.
-Passionate about writing clean, scalable code and solving real-world engineering problems.
-
-<!-- 📍 Ahmedabad, India &nbsp;·&nbsp; 🎯 Seeking SDE Roles &nbsp;·&nbsp; 🚀 Open to Internships & Full-time -->
-🚀 **Actively seeking Software Development Engineer (SDE) roles & Internship opportunities**
-
-📍 Ahmedabad, India · 💻 Full Stack + AI + Distributed Systems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/even-patel/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateleven8@gmail.com)
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/CipherNerds) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+Ahmedabad+University;Building+Distributed+Systems+%26+Microservices;Shipping+AI-Powered+Applications;Exploring+Blockchain+%26+Web3;Open+to+SDE+Roles+%26+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## 💡 What I Do
+<br/>
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 🏗️ | **Build distributed systems & microservices** — designing scalable, decoupled architectures that handle real-world complexity |
-| 🤖 | **Develop AI-powered applications** — from NLP pipelines and ML classification models to LLM-integrated platforms |
-| ⛓️ | **Explore blockchain & Web3** — decentralized protocols, smart contracts, and on-chain/off-chain data systems |
-| 🗺️ | **Solve graph & optimization problems** — applying Dijkstra, A\* and other algorithms to real engineering challenges |
-| 🛡️ | **Compete in hackathons** — turning ideas into working systems fast, under pressure |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/even-patel/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateleven8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OddlyEvenn)
+
+![Profile Views](https://komarev.com/ghpvc/?username=OddlyEvenn&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Activities
+## ⚡ About Me
+
+```yaml
+name:       Even Patel
+location:   Ahmedabad, India 🇮🇳
+education:  B.Tech Computer Science — Ahmedabad University
+status:     Open to SDE Roles & Internship Opportunities 🚀
+
+focus:
+  - Distributed systems & microservices architecture
+  - AI/ML pipelines and LLM-integrated applications
+  - Blockchain protocols & smart contracts
+  - Graph algorithms & optimization problems
+
+currently:
+  - Building: Production-grade distributed platforms
+  - Learning: System design at scale
+  - Competing: Hackathons (Top 4 & Top 10 finishes)
+```
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
 
-<table width="90%">
-  <tr>
-    <td align="center" width="60px">🥇</td>
-    <td>
-      <strong>Top 4 / 200+ Teams &nbsp;·&nbsp; 1000+ Participants — INGENIUM Hackathon</strong><br/>
-      <sub>Built an end-to-end ML-powered cyber threat detection platform · AI Cyber-Resilience System</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">🎯</td>
-    <td>
-      <strong>Top 10 / 3700+ Participants — Hackout'25 @ DAIICT</strong><br/>
-      <sub>Blockchain-Based Green Hydrogen Credit System · A decentralized platform for minting, trading, and retiring verified green hydrogen credits with full transparency and audit trails</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">🌐</td>
-    <td>
-      <strong>ACM Student Chapter — Tech Team Member</strong> &nbsp;·&nbsp; <em>Aug 2024 – Aug 2025</em><br/>
-      <sub>Developed & maintained the ACM university website · Mentored juniors on Git, REST APIs & web development</sub>
-    </td>
-  </tr>
-</table>
+| 🥇 | **Top 4 / 200+ Teams** — INGENIUM Hackathon | ML-powered cyber threat detection platform |
+|:---:|:---|:---|
+| 🎯 | **Top 10 / 3700+ Participants** — Hackout'25 @ DAIICT | Blockchain-based Green Hydrogen Credit System |
+| 🌐 | **ACM Student Chapter** — Tech Team Member | Aug 2024 – Aug 2025 |
 
 </div>
 
@@ -77,67 +63,53 @@ Passionate about writing clean, scalable code and solving real-world engineering
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 NeuroX</h3>
-      <p><strong>AI-Powered Technical Assessment Ecosystem</strong></p>
-      <p>Distributed microservices platform that auto-generates role-specific assessments using NLP (Llama 3.3). Features real-time <strong>Skill Integrity Scores</strong> via behavioral signal analysis.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Nitantjain21022006/NeuroX">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ AI Cyber-Resilience System</h3>
-      <p><strong>🥇 Top 4 / 200+ Teams · INGENIUM Hackathon</strong></p>
-      <p>ML anomaly-detection pipeline using Isolation Forest + XGBoost for multi-class cyber-attack classification, with a real-time severity-tiered alert dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Nitantjain21022006/KavachX">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔗 TradeSphere</h3>
-      <p><strong>Distributed Trade Finance Protocol</strong></p>
-      <p>Decentralized state machine managing trade instruments across 16+ lifecycle states. Blockchain-to-PostgreSQL sync engine with Redis caching cutting latency by <strong>55%</strong>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      </p>
-      <a href="https://github.com/OddlyEvenn/TradeSphere-Protocol">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗺️ Tripline</h3>
-      <p><strong>Advanced Multi-Modal Travel Planning Platform</strong></p>
-      <p>Graph-based travel optimizer combining Flights, Trains & Buses into a single itinerary. Uses <strong>Dijkstra & A* search</strong> to find the fastest, cheapest, or most balanced multi-carrier routes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Nitantjain21022006/Tripline_Frontend">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
+> A quick look at what I build — explore all repos on my profile.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [NeuroX](https://github.com/Nitantjain21022006/NeuroX)
+**AI-Powered Technical Assessment Ecosystem**
+
+Distributed microservices platform that auto-generates role-specific assessments using **Llama 3.3 NLP**. Features real-time **Skill Integrity Scores** via behavioral signal analysis.
+
+`React` `FastAPI` `Python` `PostgreSQL` `Microservices`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [KavachX](https://github.com/Nitantjain21022006/KavachX)
+**AI Cyber-Resilience System** &nbsp;·&nbsp; 🥇 *Top 4 / 200+ Teams*
+
+ML anomaly-detection pipeline with **Isolation Forest + XGBoost** for multi-class cyber-attack classification. Real-time severity-tiered alert dashboard.
+
+`Node.js` `React` `XGBoost` `Python` `ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 [TradeSphere](https://github.com/OddlyEvenn/TradeSphere-Protocol)
+**Distributed Trade Finance Protocol**
+
+Decentralized state machine managing trade instruments across **16+ lifecycle states**. Blockchain-to-PostgreSQL sync engine with Redis caching — **55% latency reduction**.
+
+`Solidity` `Node.js` `PostgreSQL` `Redis` `Web3`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ [Tripline](https://github.com/Nitantjain21022006/Tripline_Frontend)
+**Multi-Modal Travel Planning Platform**
+
+Graph-based optimizer combining Flights, Trains & Buses into one itinerary using **Dijkstra & A\*** to find fastest, cheapest, or balanced routes.
+
+`Spring Boot` `PostGIS` `Java` `Stripe` `Graph Algorithms`
+
+</td>
+</tr>
 </table>
 
 ---
@@ -151,6 +123,7 @@ Passionate about writing clean, scalable code and solving real-world engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -159,9 +132,9 @@ Passionate about writing clean, scalable code and solving real-world engineering
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Databases & Tools**
+**Databases, Cloud & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -174,17 +147,23 @@ Passionate about writing clean, scalable code and solving real-world engineering
 
 ## 📊 GitHub Stats
 
-<div align="center"> 
-  
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OddlyEvenn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=60a5fa&icon_color=60a5fa&text_color=a0aec0"/> &nbsp;&nbsp;  -->
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OddlyEvenn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=60a5fa&text_color=a0aec0"/> 
+<div align="center">
 
-</div> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OddlyEvenn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&border_radius=10"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OddlyEvenn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&border_radius=10"/>
 
-<div align="center"> 
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OddlyEvenn&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=60a5fa&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa&sideLabels=a0aec0&dates=a0aec0&currStreakNum=ffffff&sideNums=ffffff"/> 
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OddlyEvenn&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=f97316&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=10"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OddlyEvenn&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -192,6 +171,13 @@ Passionate about writing clean, scalable code and solving real-world engineering
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
+### 💬 Let's Connect
+
+*I'm always open to interesting conversations, collaborations, and opportunities.*
+
+[![LinkedIn](https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/even-patel/)
+[![Email](https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateleven8@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer"/>
 
 </div>
