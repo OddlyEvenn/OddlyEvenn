@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+Ahmedabad+University;Building+Distributed+Systems+%26+Microservices;Shipping+AI-Powered+Applications;Exploring+Blockchain+%26+Web3;Open+to+SDE+Roles+%26+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+Ahmedabad+University;Building+Distributed+Systems+%26+Microservices;Shipping+AI-Powered+Products;Exploring+Blockchain+%26+Web3;Open+to+SDE+Roles+%26+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,7 +45,7 @@ currently:
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Activities
 
 <div align="center">
 
