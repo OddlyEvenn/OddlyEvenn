@@ -25,33 +25,30 @@
 
 ## ⚡ About Me
 
-```bash
-even@dev:~$ whoami
-Even Patel
+```c
+struct engineer {
+    const char* name = "Even Patel";
+    const char* role = "Software Engineer";
 
-even@dev:~$ uname -srmo
-Linux x86_64 Distributed-Systems-Engineer
+    const char* education = "B.Tech Computer Science — Ahmedabad University";
+    const char* status = "Open to SDE Roles & Internships 🚀";
 
-even@dev:~$ cat /etc/profile
+    const char* focus[] = {
+        "Distributed Systems & Fault Tolerance",
+        "Concurrency, Multithreading & Synchronization",
+        "Networking Protocols & System Design",
+        "AI Pipelines & LLM Integrations",
+        "Blockchain State Machines & Web3"
+    };
 
-> CS Undergrad @ Ahmedabad University
-> Engineer focused on distributed systems & scalability
-> Designing resilient microservices and async architectures
-> Building AI-powered systems with LLM pipelines
-> Exploring blockchain protocols & state machines
-
-even@dev:~$ ps -eo state,cmd | grep even
-
-R  building production-grade distributed platforms
-S  learning system design, OS internals & networking
-R  competing in hackathons (Top 4 / Top 10 finishes)
-
-even@dev:~$ ss -ltn | grep opportunities
-
-LISTEN  0  128  0.0.0.0:∞   0.0.0.0:*   users:(("even",pid=1337))
-
-even@dev:~$ echo $STATUS
-OPEN_TO_SDE_ROLES_AND_INTERNSHIPS 🚀
+    const char* current_state[] = {
+        "Building production-grade distributed platforms",
+        "Designing scalable microservices architectures",
+        "Learning OS internals & distributed consensus",
+        "Optimizing latency, throughput & reliability",
+        "Competing in hackathons (Top 4 / Top 10)"
+    };
+};
 ```
 
 ---
