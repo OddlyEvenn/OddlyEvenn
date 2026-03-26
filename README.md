@@ -25,31 +25,33 @@
 
 ## ⚡ About Me
 
-```
+```bash
 even@dev:~$ whoami
 Even Patel
 
-even@dev:~$ uname -a
-Distributed Systems Engineer | AI | Web3
+even@dev:~$ uname -srmo
+Linux x86_64 Distributed-Systems-Engineer
 
 even@dev:~$ cat /etc/profile
 
 > CS Undergrad @ Ahmedabad University
-> Building fault-tolerant distributed systems
-> Designing microservices that actually scale
-> Working with LLM pipelines & AI infra
-> Exploring blockchain state machines & protocols
+> Engineer focused on distributed systems & scalability
+> Designing resilient microservices and async architectures
+> Building AI-powered systems with LLM pipelines
+> Exploring blockchain protocols & state machines
 
-even@dev:~$ ps aux | grep current
+even@dev:~$ ps -eo state,cmd | grep even
 
-BUILDING    → production-grade distributed platforms
-LEARNING    → system design, concurrency, networking
-COMPETING   → hackathons (Top 4 / Top 10 finishes)
+R  building production-grade distributed platforms
+S  learning system design, OS internals & networking
+R  competing in hackathons (Top 4 / Top 10 finishes)
 
-even@dev:~$ netstat -an | grep opportunities
+even@dev:~$ ss -ltn | grep opportunities
 
-STATUS: LISTENING 🚀
-```
+LISTEN  0  128  0.0.0.0:∞   0.0.0.0:*   users:(("even",pid=1337))
+
+even@dev:~$ echo $STATUS
+OPEN_TO_SDE_ROLES_AND_INTERNSHIPS 🚀
 
 ---
 
