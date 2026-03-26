@@ -25,22 +25,30 @@
 
 ## ⚡ About Me
 
-```yaml
-name:       Even Patel
-location:   Ahmedabad, India 🇮🇳
-education:  B.Tech Computer Science — Ahmedabad University
-status:     Open to SDE Roles & Internship Opportunities 🚀
+```
+even@dev:~$ whoami
+Even Patel
 
-focus:
-  - Distributed systems & microservices architecture
-  - AI/ML pipelines and LLM-integrated applications
-  - Blockchain protocols & smart contracts
-  - Graph algorithms & optimization problems
+even@dev:~$ uname -a
+Distributed Systems Engineer | AI | Web3
 
-currently:
-  - Building: Production-grade distributed platforms
-  - Learning: System design at scale
-  - Competing: Hackathons (Top 4 & Top 10 finishes)
+even@dev:~$ cat /etc/profile
+
+> CS Undergrad @ Ahmedabad University
+> Building fault-tolerant distributed systems
+> Designing microservices that actually scale
+> Working with LLM pipelines & AI infra
+> Exploring blockchain state machines & protocols
+
+even@dev:~$ ps aux | grep current
+
+BUILDING    → production-grade distributed platforms
+LEARNING    → system design, concurrency, networking
+COMPETING   → hackathons (Top 4 / Top 10 finishes)
+
+even@dev:~$ netstat -an | grep opportunities
+
+STATUS: LISTENING 🚀
 ```
 
 ---
