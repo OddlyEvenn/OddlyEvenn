@@ -52,6 +52,7 @@ LISTEN  0  128  0.0.0.0:∞   0.0.0.0:*   users:(("even",pid=1337))
 
 even@dev:~$ echo $STATUS
 OPEN_TO_SDE_ROLES_AND_INTERNSHIPS 🚀
+```
 
 ---
 
