@@ -54,7 +54,7 @@ I am a Computer Science undergraduate focused on building production-grade, secu
 ---
 
 ### 🗺️ [Tripline — Graph-Based Travel Planner](https://github.com/OddlyEvenn/Tripline)
-> [Live Demo](https://tripline-rust.vercel.app/) &nbsp;·&nbsp; `Node.js` `React` `Oracle DB` `Redis` `Stripe` `AWS EC2`
+> [Live Demo](https://tripline.duckdns.org/) &nbsp;·&nbsp; `Node.js` `React` `Oracle DB` `Redis` `Stripe` `AWS EC2`
 
 - Engineered schedule-aware transit itineraries using **A* and Dijkstra** algorithms over a 50+ node graph.
 - Built distributed seat-locking with **Redis TTL** to handle concurrent reservations and prevent race conditions.
@@ -100,24 +100,6 @@ I am a Computer Science undergraduate focused on building production-grade, secu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OddlyEvenn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&border_radius=10"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OddlyEvenn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&border_radius=10"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OddlyEvenn&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=f97316&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=10"/>
-
-</div>
-
-
----
 
 <div align="center">
 
