@@ -25,31 +25,7 @@
 
 ## ⚡ About Me
 
-```c
-struct engineer {
-    const char* name = "Even Patel";
-    const char* role = "Software Engineer";
-
-    const char* education = "B.Tech Computer Science — Ahmedabad University";
-    const char* status = "Open to SDE Roles & Internships 🚀";
-
-    const char* focus[] = {
-        "Distributed Systems & Fault Tolerance",
-        "Concurrency, Multithreading & Synchronization",
-        "Networking Protocols & System Design",
-        "AI Pipelines & LLM Integrations",
-        "Blockchain State Machines & Web3"
-    };
-
-    const char* current_state[] = {
-        "Building production-grade distributed platforms",
-        "Designing scalable microservices architectures",
-        "Learning OS internals & distributed consensus",
-        "Optimizing latency, throughput & reliability",
-        "Competing in hackathons (Top 4 / Top 10)"
-    };
-};
-```
+I am a Computer Science undergraduate focused on building production-grade, secure, and low-latency full-stack systems. My work centers on distributed microservices architectures, graph algorithms, and Web3 protocols.
 
 ---
 
@@ -57,8 +33,9 @@ struct engineer {
 
 <div align="center">
 
-| 🥇 | **Top 4 / 200+ Teams** — INGENIUM Hackathon | ML-powered cyber threat detection platform |
+| 🏆 | **Winner** — Website Making Competition (WMC) | Glassmorphic full-stack command center |
 |:---:|:---|:---|
+| 🥇 | **Top 4 / 200+ Teams** — INGENIUM Hackathon | ML-powered cyber threat detection platform |
 | 🎯 | **Top 10 / 3700+ Participants** — Hackout'25 @ DAIICT | Blockchain-based Green Hydrogen Credit System |
 | 🌐 | **ACM Student Chapter** — Tech Team Member | Aug 2024 – Aug 2025 |
 
@@ -68,54 +45,27 @@ struct engineer {
 
 ## 🚀 Featured Projects
 
-> A quick look at what I build — explore all repos on my profile.
+### 🏛️ [SevaSetu — Urban Governance Platform](https://github.com/OddlyEvenn/SevaSetu)
+> [Live Demo](https://seva-setu-azure.vercel.app/) &nbsp;·&nbsp; `Next.js` `TypeScript` `Docker` `Nginx` `PostgreSQL` `Prisma`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- Developed a visual recognition API with failover mechanisms and robust input validation.
+- Engineered an SLA ticketing engine and a secure WebRTC/SSE stream manager scaling to 1,000+ concurrent connections.
 
-### 🧠 [NeuroX](https://github.com/Nitantjain21022006/NeuroX)
-**AI-Powered Technical Assessment Ecosystem**
+---
 
-Distributed microservices platform that auto-generates role-specific assessments using **Llama 3.3 NLP**. Features real-time **Skill Integrity Scores** via behavioral signal analysis.
+### 🗺️ [Tripline — Graph-Based Travel Planner](https://github.com/OddlyEvenn/Tripline)
+> [Live Demo](https://tripline-rust.vercel.app/) &nbsp;·&nbsp; `Node.js` `React` `Oracle DB` `Redis` `Stripe` `AWS EC2`
 
-`React` `FastAPI` `Python` `PostgreSQL` `Microservices`
+- Engineered schedule-aware transit itineraries using **A* and Dijkstra** algorithms over a 50+ node graph.
+- Built distributed seat-locking with **Redis TTL** to handle concurrent reservations and prevent race conditions.
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🛡️ [KavachX](https://github.com/Nitantjain21022006/KavachX)
-**AI Cyber-Resilience System** &nbsp;·&nbsp; 🥇 *Top 4 / 200+ Teams*
+### 🔗 [TradeSphere — Distributed Trade Finance Protocol](https://github.com/OddlyEvenn/TradeSphere-Protocol)
+> [Live Demo](https://tradesphere-protocol.vercel.app/) &nbsp;·&nbsp; `Solidity` `Hardhat` `Ethers.js` `React` `Node.js` `PostgreSQL` `Redis`
 
-ML anomaly-detection pipeline with **Isolation Forest + XGBoost** for multi-class cyber-attack classification. Real-time severity-tiered alert dashboard.
-
-`Node.js` `React` `XGBoost` `Python` `ML`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 [TradeSphere](https://github.com/OddlyEvenn/TradeSphere-Protocol)
-**Distributed Trade Finance Protocol**
-
-Decentralized state machine managing trade instruments across **16+ lifecycle states**. Blockchain-to-PostgreSQL sync engine with Redis caching — **55% latency reduction**.
-
-`Solidity` `Node.js` `PostgreSQL` `Redis` `Web3`
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ [Tripline](https://github.com/Nitantjain21022006/Tripline_Frontend)
-**Multi-Modal Travel Planning Platform**
-
-Graph-based optimizer combining Flights, Trains & Buses into one itinerary using **Dijkstra & A\*** to find fastest, cheapest, or balanced routes.
-
-`Spring Boot` `PostGIS` `Java` `Stripe` `Graph Algorithms`
-
-</td>
-</tr>
-</table>
+- Architected a decentralized trade finance protocol using smart contracts with cryptographic escrow.
+- Optimized EVM storage to reduce gas costs by **61.8%**, syncing state to PostgreSQL via custom events.
 
 ---
 
@@ -166,11 +116,6 @@ Graph-based optimizer combining Flights, Trains & Buses into one itinerary using
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OddlyEvenn&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
 
 ---
 
